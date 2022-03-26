@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React JS**
 - 📫 How to reach me: **ffatma.glmz@gmail.com**
 
 <br>

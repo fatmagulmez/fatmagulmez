@@ -24,7 +24,7 @@
 <br>
 
 ### Connect with me:
-<a href="www.linkedin.com/in/fatma-gülmez" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png"/></a>
+<a href="www.linkedin.com/in/fatma-gülmez/" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png"/></a>
 <a href="https://www.hackerrank.com/ffatma_glmz" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsemron"  width="40px" /></a>
 
